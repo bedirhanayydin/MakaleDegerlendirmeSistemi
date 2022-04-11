@@ -1,4 +1,5 @@
-Java Server Pages ve Mysql kullanılarak yaptığım Staj projem.
+**Java Server Pages ve Mysql kullanılarak yaptığım Staj projem.**
+
                               Makale Değerlendirme Sistemi
 Makale Değerlendirme Sistemi sisteminde yetki ve roller şu şekildedir:
 1. Editör (Yönetici), sadece masa üstü uygulaması üzerinden sisteme giriş yapabilmektedir.
